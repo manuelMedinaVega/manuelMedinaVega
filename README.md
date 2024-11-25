@@ -22,10 +22,6 @@ My objective is to continue learning, challenging myself, and delivering my best
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelMedinaVega&layout=compact&theme=radical)
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manuelMedinaVega&theme=radical)
-
 
 ## 📫 Contact Me
 
